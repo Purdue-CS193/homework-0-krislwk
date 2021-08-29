@@ -16,7 +16,7 @@ You should only continue from here if everything went smoothly from the instruct
 ## Step 4 - Create Your Own Website!
 The repository that was just created for you is already set up with a simple file that displays a basic website. The website content is found in the index.md file. Throughout this homework you will be editing this file to create your own content for this website.
 
-To active the website so you can visit it in a browser, click on the **Purdue-CS193/homework-0-\<Your Github Username\>** repository from your Github home page. On the top part of the repository page, click on the **Settings** tab. 
+To activate the website so you can visit it in a browser, click on the **Purdue-CS193/homework-0-\<Your Github Username\>** repository from your Github home page. On the top part of the repository page, click on the **Settings** tab. 
 
 Before you can create a Github Page, you must make your repository public. You can this at the bottom of the Settings tab in the section labeled **Danger Zone**. Once there, find the option labeled 'Change repository visibility'. Click the 'Change visibility' button to the right and select the 'make public' option. Confirm it by typing the confirmation message, and you are good to go!
 
