@@ -5,11 +5,7 @@
 - The super chill TA's (Arya & Caleb)
 - The fact that I can no longer procrastinate on learning all the VIM shortcuts 
 
-##
-##
-##
-
-
+&nbsp;
 
 ## Welcome to GitHub Pages
 
